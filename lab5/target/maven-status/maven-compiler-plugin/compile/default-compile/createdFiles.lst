@@ -1,0 +1,8 @@
+com/soap/ConnectionUtil.class
+com/soap/PostgreSQLDAO.class
+com/soap/PersonResource.class
+com/soap/Person.class
+com/soap/App.class
+com/soap/ClientApp$2.class
+com/soap/ClientApp.class
+com/soap/ClientApp$1.class
